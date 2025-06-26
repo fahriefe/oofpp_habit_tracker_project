@@ -18,5 +18,6 @@ You need Git installed on your computer to clone the project. If Git is not inst
 2.After installation, open a new terminal and verify by running:  
    ```bash
    git --version
-3.Clone the repository: git clone https://github.com/fahriefe/oofpp_habit_tracker_project.git
-4.This project requires Python 3.9+ and the PySide6 library. To install PySide6, open your terminal and run: pip install PySide6
+```
+3.Clone the repository: ```git clone https://github.com/fahriefe/oofpp_habit_tracker_project.git```
+4.This project requires Python 3.9+ and the PySide6 library. To install PySide6, open your terminal and run: ```pip install PySide6```
